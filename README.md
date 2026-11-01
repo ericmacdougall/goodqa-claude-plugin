@@ -62,4 +62,8 @@ This package ships no credentials, no executable hooks and no private organizati
 
 ## License
 
-MIT, see `LICENSE`.
+The plugin source code is licensed under the [MIT License](LICENSE), except as noted below.
+
+"GoodQA" and the GoodQA Sentinel logo (`assets/logo.svg`) are trademarks of Transition 2 Consulting Incorporated. They
+are not licensed under the MIT License, and nothing in this repository grants permission to use them, except to
+identify this plugin unmodified.
