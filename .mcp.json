@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "goodqa": {
+      "type": "http",
+      "url": "https://goodqa.app/v1/mcp"
+    }
+  }
+}

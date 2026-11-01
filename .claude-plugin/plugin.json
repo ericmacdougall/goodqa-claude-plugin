@@ -1,0 +1,25 @@
+{
+  "name": "goodqa",
+  "displayName": "GoodQA",
+  "version": "0.1.0",
+  "description": "Work with GoodQA tickets, projects and follow-ups from your agent: find the right organization, file and update issues, and hand risky actions to a person. Configured for OAuth at goodqa.app; no API key to paste.",
+  "author": {
+    "name": "GoodQA",
+    "url": "https://goodqa.app"
+  },
+  "homepage": "https://goodqa.app/developers",
+  "license": "MIT",
+  "keywords": [
+    "goodqa",
+    "mcp",
+    "issues",
+    "qa",
+    "projects",
+    "bug-tracking"
+  ],
+  "icon": "./assets/logo.svg",
+  "documentationUrl": "https://goodqa.app/docs/mcp-tool-reference",
+  "supportUrl": "https://goodqa.app/support",
+  "privacyPolicyUrl": "https://goodqa.app/privacy",
+  "termsOfServiceUrl": "https://goodqa.app/terms"
+}
